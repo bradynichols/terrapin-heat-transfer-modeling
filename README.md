@@ -3,7 +3,7 @@ Senior research project - *Mathematical Modeling of Road to Plastron Heat Transf
 
 Submitted to Jersey Shore Science Fair (JSSF) at Stockton University
 
-conductiontestswitherro.ipynb - Stats and visualization for the conduction trials
+conductiontestswitherror.ipynb - Stats and visualization for the conduction trials
 
 errorbargraph.ipynb - The error bar graph from the conduction trials
 
