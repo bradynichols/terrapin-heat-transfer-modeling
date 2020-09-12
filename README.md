@@ -12,3 +12,5 @@ radiation_testing.ipynb - Same as the conduction trial file, but using the radia
 finalmodel.ipynb - The final model + code used to generate the last few graphs
 
 Thank you for checking out the GitHub for this project. Have a great day!
+
+# Note: This repository was initially submitted for a science fair. I'll be putting together a better release and demonstration of this project eventually.
