@@ -13,4 +13,4 @@ finalmodel.ipynb - The final model + code used to generate the last few graphs
 
 Thank you for checking out the GitHub for this project. Have a great day!
 
-# Note: This repository was initially submitted for a science fair. I'll be putting together a better release and demonstration of this project eventually.
+# Update 1/2021: This repository was initially made for a science fair submission last year. I'm going to be working on this project again sometime soon, adding cooler math stuff and potentially moving it to Julia!
